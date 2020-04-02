@@ -1,5 +1,5 @@
 {
-    "name": "qcloud/vod-sdk-v5",
+    "name": "qcloud/vod-sdk-v5-moego",
     "description": "VOD SDK For PHP",
     "type": "library",
     "authors": [
