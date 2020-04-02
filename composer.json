@@ -2,16 +2,6 @@
     "name": "qcloud/vod-sdk-v5-moego",
     "description": "VOD SDK For PHP",
     "type": "library",
-    "authors": [
-        {
-            "name": "xujianguo",
-            "email": "450846733@qq.com"
-        }
-    ],
-    "support": {
-        "issues": "https://github.com/tencentyun/vod-php-sdk-v5/issues",
-        "source": "https://github.com/tencentyun/vod-php-sdk-v5"
-    },
     "license": "MIT",
     "require": {
         "php": ">=5.6.33",
