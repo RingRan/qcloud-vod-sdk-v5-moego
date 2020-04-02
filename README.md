@@ -19,8 +19,8 @@
 ```php
 require 'vendor/autoload.php';
 
-use Vod\VodUploadClient;
-use Vod\Model\VodUploadRequest;
+use Moego\Vod\VodUploadClient;
+use Moego\Vod\Model\VodUploadRequest;
 
 $client = new VodUploadClient("your secretId", "your secretKey");
 $req = new VodUploadRequest();
@@ -45,8 +45,8 @@ try {
 ```php
 require 'vod-sdk-v5/autoload.php';
 
-use Vod\VodUploadClient;
-use Vod\Model\VodUploadRequest;
+use Moego\Vod\VodUploadClient;
+use Moego\Vod\Model\VodUploadRequest;
 
 $client = new VodUploadClient("your secretId", "your secretKey");
 $req = new VodUploadRequest();

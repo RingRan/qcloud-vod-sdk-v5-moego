@@ -6,7 +6,7 @@
  * Time: 17:22
  */
 
-namespace Vod\Model;
+namespace Moego\Vod\Model;
 
 
 use TencentCloud\Vod\V20180717\Models\CommitUploadResponse;

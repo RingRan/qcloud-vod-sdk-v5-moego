@@ -6,7 +6,7 @@
  * Time: 18:07
  */
 
-namespace Vod\Exception;
+namespace Moego\Vod\Exception;
 
 
 use Throwable;

@@ -13,10 +13,10 @@ use TencentCloud\Common\Exception\TencentCloudSDKException;
 use TencentCloud\Vod\V20180717\Models\ApplyUploadRequest;
 use TencentCloud\Vod\V20180717\Models\CommitUploadRequest;
 use TencentCloud\Vod\V20180717\VodClient;
-use Vod\Common\FileUtil;
-use Vod\Exception\VodClientException as VodClientException;
-use Vod\Model\VodUploadRequest;
-use Vod\Model\VodUploadResponse;
+use Moego\Vod\Common\FileUtil;
+use Moego\Vod\Exception\VodClientException as VodClientException;
+use Moego\Vod\Model\VodUploadRequest;
+use Moego\Vod\Model\VodUploadResponse;
 use \DateTime;
 
 error_reporting(E_ALL ^ E_NOTICE);

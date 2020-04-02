@@ -6,7 +6,7 @@
  * Time: 19:18
  */
 
-namespace Vod\Common;
+namespace Moego\Vod\Common;
 
 /**
  * 文件工具类
