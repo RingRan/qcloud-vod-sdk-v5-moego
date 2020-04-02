@@ -1,6 +1,6 @@
 {
-    "name": "qcloud/vod-sdk-v5-moego",
-    "description": "VOD SDK For PHP",
+    "name": "moego/vod-sdk-v5",
+    "description": "FIX TX VOD SDK For PHP",
     "type": "library",
     "license": "MIT",
     "require": {
