@@ -1,5 +1,5 @@
 {
-    "name": "moego/vod-sdk-v5",
+    "name": "mg-vod/vod-sdk-v5",
     "description": "FIX TX VOD SDK For PHP",
     "type": "library",
     "license": "MIT",
